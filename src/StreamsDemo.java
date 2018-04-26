@@ -38,8 +38,8 @@ public class StreamsDemo {
 
                    filter();
                    
-                   order();
                    System.out.println("Importance of Order: ");
+                   order();
                    
                }//end of main
 
@@ -134,7 +134,3 @@ public class StreamsDemo {
                }
                
 }
-
-
-
-
